@@ -1,14 +1,64 @@
 {
-  "name": "static-site",
+  "name": "09-professional-readme-generator",
   "version": "1.0.0",
-  "description": "",
+  "description": "Professional ReadME.md file generator",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarcioPimentel01/09-Professional-Readme-Generator.git"
+  },
+  "keywords": [
+    "README",
+    "generator",
+    "Professional",
+    "README",
+    "README",
+    "creator",
+    "Markdown",
+    "documentation",
+    "Project",
+    "documentation",
+    "GitHub",
+    "README",
+    "README",
+    "templates",
+    "Automated",
+    "README",
+    "Developer",
+    "documentation",
+    "Project",
+    "README",
+    "Software",
+    "documentation",
+    "Markdown",
+    "editor",
+    "README",
+    "customization",
+    "README",
+    "builder",
+    "README",
+    "toolkit",
+    "Code",
+    "documentation",
+    "README",
+    "assistant",
+    "README",
+    "formatter",
+    "Documentation",
+    "generator",
+    "README",
+    "enhancer"
+  ],
+  "author": "Marcio Pimentel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MarcioPimentel01/09-Professional-Readme-Generator/issues"
+  },
+  "homepage": "https://github.com/MarcioPimentel01/09-Professional-Readme-Generator#readme",
   "dependencies": {
-    "inquirer": "8.2.4"
+    "inquirer": "^9.2.22"
   }
 }
