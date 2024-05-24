@@ -4,6 +4,7 @@
   "description": "Professional ReadME.md file generator",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -53,7 +54,7 @@
     "enhancer"
   ],
   "author": "Marcio Pimentel",
-  "license": "MIT",
+  "license": "",
   "bugs": {
     "url": "https://github.com/MarcioPimentel01/09-Professional-Readme-Generator/issues"
   },

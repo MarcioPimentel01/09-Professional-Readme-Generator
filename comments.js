@@ -16,56 +16,7 @@
 
 // TODO Create Inquire Prompts
 
-const questions = [
-    {
-      type: 'input',
-      name: 'title',
-      message: 'What is the title of your project?',
-    },
-    {
-      type: 'input',
-      name: 'description',
-      message: 'Provide a description of your project:',
-    },
-    {
-      type: 'input',
-      name: 'installation',
-      message: 'What are the installation instructions?',
-    },
-    {
-      type: 'input',
-      name: 'usage',
-      message: 'How do you use this project?',
-    },
-    {
-      type: 'input',
-      name: 'contributing',
-      message: 'How can someone contribute to this project?',
-    },
-    {
-      type: 'input',
-      name: 'tests',
-      message: 'How can someone test this project?',
-    },
-    {
-      type: 'list',
-      name: 'license',
-      message: 'Choose a license for your project:',
-      choices: ['MIT', 'Apache 2.0', 'GPL 3.0', 'BSD 3-Clause', 'None'],
-    },
-    {
-      type: 'input',
-      name: 'github',
-      message: 'Enter your GitHub username:',
-    },
-    {
-      type: 'input',
-      name: 'email',
-      message: 'Enter your email address:',
-    },
-  ];
-
-  // TODO Generate README Content:
+// TODO Generate README Content:
 // !  function generateREADME(answers) {
 // !    return `# ${answers.title}
   
