@@ -1,0 +1,138 @@
+[
+    {
+    "badgeName": "MIT",
+    "type": "MIT-yellow.svg",
+    "url": "https://opensource.org/licenses/MIT"
+    },
+    {
+    "badgeName": "Apache_2.0",
+    "type": "Apache_2.0-blue.svg",
+    "url": "https://opensource.org/licenses/Apache-2.0"
+    },
+    {
+    "badgeName": "Boost_1.0",
+    "type": "Boost_1.0-lightblue.svg",
+    "url": "https://www.boost.org/LICENSE_1_0.txt"
+    },
+    {  
+    "badgeName": "BSD_3",
+    "type": "BSD_3--Clause-blue.svg",
+    "url": "https://opensource.org/licenses/BSD-3-Clause"
+    },
+    {
+    "badgeName": "CC0_1.0",
+    "type": "CC0_1.0-lightgrey.svg",
+    "url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+    "badgeName": "CC_BY_4.0",
+    "type": "CC_BY_4.0-lightgrey.svg",
+    "url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+    "badgeName": "CC_BY--SA_4.0",
+    "type": "CC_BY--SA_4.0-lightgrey.svg",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    {
+    "badgeName": "CC_BY--NC_4.0",
+    "type": "CC_BY--NC_4.0-lightgrey.svg",
+    "url": "https://creativecommons.org/licenses/by-nc/4.0/"
+    },
+    {
+    "badgeName": "CC_BY--ND_4.0",
+    "type": "CC_BY--ND_4.0-lightgrey.svg",
+    "url": "https://creativecommons.org/licenses/by-nd/4.0/"
+    },
+    {
+    "badgeName": "EPL_1.0",
+    "type": "EPL_1.0-red.svg",
+    "url": "http://www.eclipse.org/legal/epl-v10.html"
+    },
+    {
+    "badgeName": "GPLv3",
+    "type": "GPLv3-red.svg",
+    "url": "https://www.gnu.org/licenses/gpl-3.0"
+    },
+    {
+    "badgeName": "AGPL_v3",
+    "type": "AGPL_v3-red.svg",
+    "url": "https://www.gnu.org/licenses/agpl-3.0"
+    },
+    {
+    "badgeName": "LGPL_v3",
+    "type": "LGPL_v3-blue.svg",
+    "url": "https://www.gnu.org/licenses/lgpl-3.0"
+    },
+    {
+    "badgeName": "FDL_v1.3",
+    "type": "FDL_v1.3-blue.svg",
+    "url": "https://www.gnu.org/licenses/fdl-1.3"
+    },
+    {
+    "badgeName": "Hippocratic_3",
+    "type": "Hippocratic_3.0-lightgrey.svg",
+    "url": "https://firstdonoharm.dev"
+    },
+    {
+    "badgeName": "IPL_1.0",
+    "type": "IPL_1.0-blue.svg",
+    "url": "https://opensource.org/licenses/IPL-1.0"
+    },
+    {
+    "badgeName": "ISC",
+    "type": "ISC-blue.svg",
+    "url": "https://opensource.org/licenses/ISC"
+    },  
+    {
+    "badgeName": "MPL_2.0",
+    "type": "MPL_2.0-brightgreen.svg",
+    "url": "https://opensource.org/licenses/MPL-2.0"
+    },
+    {
+    "badgeName": "ODC_BY",
+    "type": "ODC_BY-brightgreen.svg",
+    "url": "https://opendatacommons.org/licenses/by/"
+    },
+    {
+    "badgeName": "ODbL",
+    "type": "ODbL-brightgreen.svg",
+    "url": "https://opendatacommons.org/licenses/odbl/"
+    },
+    {
+    "badgeName": "PDDL",
+    "type": "PDDL-brightgreen.svg",
+    "url": "https://opendatacommons.org/licenses/pddl/"
+    },
+    {
+    "badgeName": "Perl",
+    "type": "Perl-0298c3.svg",
+    "url": "https://opensource.org/licenses/Artistic-2.0"
+    },
+    {
+    "badgeName": "Artistic_2",
+    "type": "Artistic_2.0-0298c3.svg",
+    "url": "https://opensource.org/licenses/Artistic-2.0"
+    },
+    {
+    "badgeName": "OFL_1",
+    "type": "OFL_1.1-lightgreen.svg",
+    "url": "https://opensource.org/licenses/OFL-1.1"
+    },
+    {
+    "badgeName": "Unlicense",
+    "type": "Unlicense-blue.svg",
+    "url": "http://unlicense.org/"
+    },
+    {
+    "badgeName": "WTFPL",
+    "type": "WTFPL-brightgreen.svg",
+    "url": "http://www.wtfpl.net/about/"
+    },
+    {
+    "badgeName": "Zlib",
+    "type": "Zlib-lightgrey.svg",
+    "url": "https://opensource.org/licenses/Zlib"
+    }
+]
+
